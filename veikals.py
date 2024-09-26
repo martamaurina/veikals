@@ -14,7 +14,7 @@ risi=Product("Rīsi - valdo", 2.45, 2)
 risi.get_total_price()
 print("Cena par rīsiem: ", risi.get_total_price(), "eur")
 
-#print(maize.get_total_price)
+#print(maize.get_total_price) 
 #print(risi.get_total_price)
 
 class ShoppingCart():
